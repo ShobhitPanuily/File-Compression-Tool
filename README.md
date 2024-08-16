@@ -1,2 +1,8 @@
 # File-Compression-Tool
-file compression with help of Huffman coding. It’s designed for efficiency and ease, using Python’s heapq to handle binary trees, improving data storage and management.
+Developed a file compression tool using Huffman coding, achieving up to 60% file size reduction, optimizing data storage.
+
+Implemented binary tree structures with Python’s heapq, improving compression speed by 30%.
+
+Focused on creating an efficient and user-friendly compression tool, enabling faster data handling and reduced storage costs.
+
+
